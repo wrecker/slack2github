@@ -1,0 +1,8 @@
+# Local environment
+.env
+.env.*
+
+# Dependency directories
+node_modules/
+
+.npm

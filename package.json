@@ -1,0 +1,16 @@
+{
+  "name": "slack2github bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.0.1",
+    "@slack/bolt": "^2.1.1",
+    "url-regex": "^5.0.0"
+  }
+}
